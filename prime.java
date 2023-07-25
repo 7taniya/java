@@ -12,9 +12,9 @@ public class prime {
     }
     
      if(c==2){
-        System.out.println("PRIME"+n);
+        System.out.println("PRIME");
     }else{
-       System.out.println("NOT PRIME"+n); 
+       System.out.println("NOT PRIME"); 
     } 
 }
 }
